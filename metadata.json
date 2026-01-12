@@ -1,0 +1,5 @@
+{
+  "name": "Chuyển Đổi Tiền Tệ VN",
+  "description": "Ứng dụng chuyển đổi tiền tệ tự động từ USD/JPY sang VND, hiển thị kết quả bằng số và chữ tiếng Việt.",
+  "requestFramePermissions": []
+}
